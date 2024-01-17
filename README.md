@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-produ
 
 ##(Sample Data)
 
-
+![image](https://github.com/PriyaGanesan2/LHL_Capstone_Project/assets/110922792/d52f3cbb-482a-4dc4-bce2-4247e0c17dbd)
 
 ##(Interesting Task Ideas)
 
