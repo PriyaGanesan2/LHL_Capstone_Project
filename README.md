@@ -2,8 +2,10 @@
 
 ##(Description)
 
-Identify Porfitable products to sell in Amazon Canada( and US? ) by analysing data available in  
+1)Identify Porfitable products to sell in Amazon Canada( and US? ) by analysing data available in  
 https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products
+
+2)Even if your target marketplace is Amazon, other marketplaces like Walmart, eBay, and AliExpress can still be valuable sources for identifying product ideas. 
 
 ##(Sample Data)
 
