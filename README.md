@@ -5,7 +5,7 @@
 1)Identify Porfitable products to sell in Amazon Canada( and US? ) by analysing data available in  
 https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products
 
-2)Even if your target marketplace is Amazon, other marketplaces like Walmart, eBay, and AliExpress can still be valuable sources for identifying product ideas. 
+2)Even if your target marketplace is Amazon, other marketplaces like shopify can still be valuable sources for identifying product ideas. 
 
 ##(Sample Data)
 
@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-produ
 ##### 1)Uncover trending product categories and their sales performance.
 ##### 2)Analyze customer ratings to find top-rated products.
 ##### 3)Gain insight into the best price for any given product based on sales data and competition.
-##### 4)Identify which niches are the easiest to make profitable sales in.
+##### 4)Identify which products/categories are the easiest to make profitable sales in.
 ##### 5)Gain insights into the general spending habits of online shoppers.
 ##### 6)Gain sales Insights on seasonal products 
 ##### 7)List of products that have atleat x sales per day.
