@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-produ
 
 ##(Sample Data)
 
+
 ![image](https://github.com/PriyaGanesan2/LHL_Capstone_Project/assets/110922792/d52f3cbb-482a-4dc4-bce2-4247e0c17dbd)
 
 ##(Interesting Task Ideas)
@@ -28,3 +29,6 @@ https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-produ
 #### 11)Identify the best-selling products on Amazon.ca.(yes)
 #### 12)Study the relationship between pricing and customer reviews.(yes)
 #### 13)Analyze the availability of products in different price ranges.(yes)
+
+some points to remember (from mentor)
+1) git page, frame the project as app or website(future goal), how and why would i use this (business model) 
