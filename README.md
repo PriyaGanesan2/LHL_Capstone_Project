@@ -70,11 +70,36 @@ Product Ratings
 Most main categories maintain consistent average ratings, hinting at stable quality across products or well-met customer expectations who like to review a product only when they are satisfied.
 
 ## STEP 3: STEP 3: TABLEAU VISUALIZATION
-Import the CSV files into Tableau.
-Develop workbooks to analyze and visualize key metrics.
-Create a comprehensive dashboard that addresses the project goal. 
+![Best Sellers Product Details Dashboard (duplicate)](https://github.com/PriyaGanesan2/LHL_Capstone_Project/assets/110922792/ea74c74c-9347-4ae7-aafb-6411133d1252)
 
+In summary, the analysis of the data reveals the following key points:
 
+Top Best-Selling Categories:
+
+The top three best-selling categories are Home & Kitchen, Beauty & Personal Care, and Health & Wellness. They are followed by Pet Care, Hardware & Tools, and Home & Garden.
+Home & Kitchen is the most reviewed category, and Beauty & Personal Care follows closely.
+Rating Distribution:
+
+The distribution of ratings across categories indicates that most products receive ratings in the range of 3 to 5.
+Home & Kitchen is the most reviewed category, suggesting that customers are actively providing feedback in this category.
+Revenue and Sales Rankings:
+
+Home & Kitchen ranks 1st out of 15 in revenue and 2nd out of 15 in sales.
+Beauty & Personal Care ranks 2nd out of 15 in revenue and 1st out of 15 in sales.
+Average Price Distribution:
+
+The average price distribution for best sellers across categories is within $130.
+This suggests that considering average price could be a relevant metric when selecting a product to sell.
+Linear Model and Correlation:
+
+The linear model shows no correlation among the variables.
+This suggests that there is no linear relationship between the factors considered in the analysis.
+Further exploration and consideration of non-linear models may be needed to better understand the relationships between the variables.
+Customer Satisfaction and Ratings:
+
+The high ratings of 3 to 5 across categories imply that customers tend to rate a product when they are satisfied.
+Categories with consistently high ratings could be promising for sellers, indicating satisfied customers.
+In conclusion, while linear correlation is not observed in the current analysis, other factors such as customer satisfaction, revenue, sales rankings, and average price distribution should be considered when selecting products to sell. Further exploration, including non-linear modeling, may provide additional insights into the relationships among variables.
 
     
 
